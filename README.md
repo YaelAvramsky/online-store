@@ -96,9 +96,14 @@ The app will be running at `http://localhost:5173/`.
 
 ## 📸 Screenshots
 
-| Homepage                               | Products Page                          | Cart Page                      |
-| -------------------------------------- | -------------------------------------- | ------------------------------ |
-| ![Homepage](./src/assets/homepage.png) | ![Products](./src/assets/products.png) | ![Cart](./src/assets/cart.png) |
+### Homepage
+![Homepage](./src/assets/homepage.png)
+
+### Products Page
+![Products](./src/assets/products.png)
+
+### Cart Page
+![Cart](./src/assets/cart.png)
 
 ---
 
